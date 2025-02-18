@@ -73,23 +73,6 @@
             "@symlink"
         ]
     },
-    "extra": {
-        "installer-paths": {
-            "composer-exit-on-patch-failure": true,
-            "web/core": ["type:drupal-core"],
-            "web/libraries/{$name}": ["type:drupal-library","type:bower-asset",
-            "type:npm-asset"],
-            "web/modules/contrib/{$name}": ["type:drupal-module"],
-            "web/profiles/contrib/{$name}": ["type:drupal-profile"],
-            "web/themes/contrib/{$name}": ["type:drupal-theme"],
-            "drush/Commands/{$name}": ["type:drupal-drush"]
-        },
-        "drupal-scaffold": {
-          "locations": {
-              "web-root": "web/"
-          }
-        }
-    },
     "config": {
         "allow-plugins": {
             "composer/installers": true,
@@ -113,6 +96,7 @@
             }
         },
         "installer-paths": {
+            "composer-exit-on-patch-failure": true,
             "web/core": [
                 "type:drupal-core"
             ],
@@ -141,19 +125,5 @@
         "patchLevel": {
             "drupal/core": "-p2"
         }
-    },
-    "scripts": {
-        "pre-install-cmd": [
-            "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-        ],
-        "post-install-cmd": [
-            "DrupalProject\\composer\\ScriptHandler::createRequiredFiles"
-        ],
-        "pre-update-cmd": [
-            "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-        ],
-        "post-update-cmd": [
-            "DrupalProject\\composer\\ScriptHandler::createRequiredFiles"
-        ]
     }
 }
