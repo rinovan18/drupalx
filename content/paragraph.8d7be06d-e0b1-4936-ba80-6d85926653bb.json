@@ -50,7 +50,7 @@
     ],
     "field_hero_layout": [
         {
-            "value": "image_bottom"
+            "value": "image_top"
         }
     ],
     "field_link": [
@@ -70,7 +70,7 @@
     "field_media": [
         {
             "target_type": "media",
-            "target_uuid": "3a4b241b-5ca0-493e-88cb-7dc81b1ef0eb"
+            "target_uuid": "882e6513-2976-4745-bf96-ca4d43611b6d"
         }
     ],
     "field_summary": [
