@@ -29,9 +29,7 @@
         "drupal/ctools": "^4.1",
         "drupal/admin_toolbar": "^3.5",
         "drupal/backup_migrate": "^5.1",
-        "drupal/gin_toolbar": "^2.0",
         "drupal/paragraphs": "^1.18",
-        "drupal/gin": "^4.0",
         "drupal/node_revision_delete": "^2.0",
         "drupal/field_group": "^3.6",
         "drupal/viewfield": "^3.0@beta",
@@ -48,7 +46,7 @@
         "drupal/paragraphs_features": "^2.1",
         "drupal/metatag": "^2.1",
         "drupal/taxonomy_access_fix": "^4.0",
-        "drupal/linkit": "^7.0"
+        "drupalninja/drupalx-core": "*"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",
