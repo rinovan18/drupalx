@@ -1,4 +1,4 @@
-uuid: 4cca0a78-5c9c-4ee2-99e5-3fd456d2e485
+uuid: 7d7fe339-c4d5-4132-8396-9e48985c1897
 langcode: en
 status: true
 dependencies:
@@ -6,9 +6,10 @@ dependencies:
     - filter.format.basic_html
   module:
     - comment
+    - contact
     - file
     - filter
-    - media
+    - search
     - shortcut
     - system
 _core:
@@ -21,8 +22,9 @@ permissions:
   - 'access comments'
   - 'access content'
   - 'access shortcuts'
+  - 'access site-wide contact form'
   - 'delete own files'
   - 'post comments'
+  - 'search content'
   - 'skip comment approval'
   - 'use text format basic_html'
-  - 'view media'
