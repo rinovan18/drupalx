@@ -46,7 +46,10 @@
         "drupal/paragraphs_features": "^2.1",
         "drupal/metatag": "^2.1",
         "drupal/taxonomy_access_fix": "^4.0",
-        "drupalninja/drupalx-core": "*"
+        "drupalninja/drupalx-core": "*",
+        "drupalninja/drupalx-paragraphs": "^1.18",
+        "drupalninja/drupalx_ai": "1.x-dev",
+        "drupalninja/drupalx_theme": "^1.19"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",

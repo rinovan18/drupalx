@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a078a159540868c0bbea901a5a54919c",
+    "content-hash": "75fe504a2eadfdf42643d0b3ca5ec9a6",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3759,6 +3759,103 @@
                 "source": "https://github.com/drupalninja/drupalx-core/tree/1.1"
             },
             "time": "2024-11-17T22:40:17+00:00"
+        },
+        {
+            "name": "drupalninja/drupalx-paragraphs",
+            "version": "1.18.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/drupalninja/drupalx-paragraphs.git",
+                "reference": "efeca4688b8cd0370dc6606736dc4db374db9aa9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/drupalninja/drupalx-paragraphs/zipball/efeca4688b8cd0370dc6606736dc4db374db9aa9",
+                "reference": "efeca4688b8cd0370dc6606736dc4db374db9aa9",
+                "shasum": ""
+            },
+            "require": {
+                "drupal/paragraphs": "^1.17",
+                "drupal/paragraphs_ee": "^10.0",
+                "drupal/paragraphs_features": "^2.0",
+                "drupal/viewfield": "^3.0@beta"
+            },
+            "type": "drupal-recipe",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Jay Callicott",
+                    "role": "Project Lead"
+                }
+            ],
+            "description": "Paragraph types used in the DrupalX distribution recipe.",
+            "keywords": [
+                "drupal recipe",
+                "recipe"
+            ],
+            "support": {
+                "issues": "https://github.com/drupalninja/drupalx-paragraphs/issues",
+                "source": "https://github.com/drupalninja/drupalx-paragraphs/tree/1.18.1"
+            },
+            "time": "2024-12-05T14:37:12+00:00"
+        },
+        {
+            "name": "drupalninja/drupalx_ai",
+            "version": "1.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/drupalninja/drupalx_ai.git",
+                "reference": "c1606246ef64e879c4255f94c43642c0622f4306"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/drupalninja/drupalx_ai/zipball/c1606246ef64e879c4255f94c43642c0622f4306",
+                "reference": "c1606246ef64e879c4255f94c43642c0622f4306",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "drupal-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Provides AI-powered DrupalX and Drush extensions using Claude 3 AI model.",
+            "support": {
+                "issues": "https://github.com/drupalninja/drupalx_ai/issues",
+                "source": "https://github.com/drupalninja/drupalx_ai/tree/1.x"
+            },
+            "time": "2025-02-09T21:37:40+00:00"
+        },
+        {
+            "name": "drupalninja/drupalx_theme",
+            "version": "1.19",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/drupalninja/drupalx_theme.git",
+                "reference": "1e6964a78b8a7b7fb56f5882e3be2d5e2841950b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/drupalninja/drupalx_theme/zipball/1e6964a78b8a7b7fb56f5882e3be2d5e2841950b",
+                "reference": "1e6964a78b8a7b7fb56f5882e3be2d5e2841950b",
+                "shasum": ""
+            },
+            "type": "drupal-theme",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Jay Callicott"
+                }
+            ],
+            "description": "DrupalX Bootstrap, Storybook starter theme.",
+            "support": {
+                "issues": "https://github.com/drupalninja/drupalx_theme/issues",
+                "source": "https://github.com/drupalninja/drupalx_theme/tree/1.19"
+            },
+            "time": "2024-12-07T02:03:43+00:00"
         },
         {
             "name": "drush/drush",
@@ -8269,7 +8366,8 @@
     "stability-flags": {
         "drupal-tome/tome_drush": 20,
         "drupal/viewfield": 10,
-        "drupal/webp": 5
+        "drupal/webp": 5,
+        "drupalninja/drupalx_ai": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,
