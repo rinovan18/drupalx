@@ -1,0 +1,22 @@
+uuid: eed99303-d8bd-4fdb-a04e-7ba182831317
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - drupalx_theme
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: drupalx_theme_powered
+theme: drupalx_theme
+region: primary_menu
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

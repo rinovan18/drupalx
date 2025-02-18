@@ -1,0 +1,22 @@
+uuid: 37e2824f-7a72-483a-bde3-e56221c4ca88
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - drupalx_theme
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: drupalx_theme_help
+theme: drupalx_theme
+region: primary_menu
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }
