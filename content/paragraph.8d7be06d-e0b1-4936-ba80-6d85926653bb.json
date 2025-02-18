@@ -1,0 +1,82 @@
+{
+    "uuid": [
+        {
+            "value": "8d7be06d-e0b1-4936-ba80-6d85926653bb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "hero",
+            "target_type": "paragraphs_type",
+            "target_uuid": "9393410c-155f-4912-b842-d60667df90e7"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-18T14:29:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_heading": [
+        {
+            "value": "<strong>Empower<\/strong> Your Web Development with <strong>DrupalX<\/strong>",
+            "format": "restricted_html"
+        }
+    ],
+    "field_hero_layout": [
+        {
+            "value": "image_bottom"
+        }
+    ],
+    "field_link": [
+        {
+            "uri": "internal:\/",
+            "title": "Start",
+            "options": []
+        }
+    ],
+    "field_link2": [
+        {
+            "uri": "internal:\/",
+            "title": "Explore",
+            "options": []
+        }
+    ],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "3a4b241b-5ca0-493e-88cb-7dc81b1ef0eb"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>sfdsfds ds ds d sfdsfds ds ds d sfdsfds ds ds d sfdsfds ds ds d sfdsfds ds ds d sfdsfds ds ds d sfdsfds ds ds d&nbsp;<\/p>",
+            "format": "basic_html"
+        }
+    ]
+}

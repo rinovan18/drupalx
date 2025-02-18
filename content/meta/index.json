@@ -44,5 +44,22 @@
     ],
     "file.1dd44c4b-feb7-461f-9eba-ddcd5be071a6": [
         "user.e39f16e0-f90b-40ba-b809-4f9156f7182b"
+    ],
+    "file.86801269-e900-4131-8a18-a5d9e58a3aad": [
+        "user.e39f16e0-f90b-40ba-b809-4f9156f7182b"
+    ],
+    "media.3a4b241b-5ca0-493e-88cb-7dc81b1ef0eb": [
+        "user.e39f16e0-f90b-40ba-b809-4f9156f7182b",
+        "file.86801269-e900-4131-8a18-a5d9e58a3aad"
+    ],
+    "paragraph.8d7be06d-e0b1-4936-ba80-6d85926653bb": [
+        "media.3a4b241b-5ca0-493e-88cb-7dc81b1ef0eb"
+    ],
+    "node.8f1dc90e-6bc7-4864-bc84-5e00e039c39f": [
+        "user.e39f16e0-f90b-40ba-b809-4f9156f7182b",
+        "paragraph.8d7be06d-e0b1-4936-ba80-6d85926653bb"
+    ],
+    "path_alias.310706fc-bfc1-44c1-b291-9f0da1d9b027": [
+        "node.8f1dc90e-6bc7-4864-bc84-5e00e039c39f"
     ]
 }
