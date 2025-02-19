@@ -50,5 +50,15 @@
             "value": true
         }
     ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_last_password_reset": [],
+    "field_password_expiration": [],
+    "field_pending_expire_sent": [],
     "user_picture": []
 }

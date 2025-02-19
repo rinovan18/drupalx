@@ -79,8 +79,7 @@
     ],
     "path": [
         {
-            "alias": "",
-            "pid": null,
+            "alias": "\/article\/drupal-home",
             "langcode": "en"
         }
     ],
@@ -95,13 +94,14 @@
         {
             "status": 2,
             "cid": 0,
-            "last_comment_timestamp": 0,
-            "last_comment_name": "",
-            "last_comment_uid": 0,
+            "last_comment_timestamp": 1739919059,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
             "comment_count": 0
         }
     ],
     "field_authors": [],
+    "field_content": [],
     "field_image": [
         {
             "alt": "fdsafds",
