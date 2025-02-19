@@ -32,6 +32,7 @@
         "drupal/core": "^10",
         "drupal/core-composer-scaffold": "^10",
         "drupal/ctools": "^4.1",
+        "drupal/devel": "^5.3",
         "drupal/field_group": "^3.6",
         "drupal/gin_login": "^2.1",
         "drupal/metatag": "^2.1",
@@ -96,7 +97,6 @@
             }
         },
         "installer-paths": {
-            "composer-exit-on-patch-failure": true,
             "web/core": [
                 "type:drupal-core"
             ],

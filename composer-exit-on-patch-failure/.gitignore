@@ -1,28 +1,36 @@
-# Ignore node_modules folder created when installing core's JavaScript
-# dependencies.
-node_modules
-yarn-error.log
-
-# Ignore yarn files
-# @see https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
-.yarn/*
-
-# Ignore overrides of core's phpcs.xml.dist and phpunit.xml.dist.
-phpcs.xml
-phpunit.xml
-
-# Ignore package-lock.json that is automatically created when adding
-# dependencies by users of NPMv5.
-package-lock.json
-
-# Ignore test reports
-reports
-
-# Ignore local Nightwatch settings
-nightwatch.settings.json
-
-# Ignore dotenv
+/vendor/
+vendor
+/web/
+/node_modules/
 .env
+composer.lock
+yarn.lock
+/.editorconfig
+/.gitattributes
 
-# Ignore CSpell cache
-.cspellcache
+#PHPUnit output
+junit.xml
+.phpunit.result.cache
+
+# Ignore local overrides.
+docker-compose.override.yml
+/.csslintrc
+/.eslintignore
+/.eslintrc.json
+/.ht.router.php
+/.htaccess
+/INSTALL.txt
+/README.txt
+/autoload.php
+/example.gitignore
+/index.php
+/robots.txt
+/update.php
+/web.config
+/composer.spoons.json
+/composer.spoons.lock
+/.env
+.envrc
+.envrc.local
+.composer-plugin.env
+.idea/

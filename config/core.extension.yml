@@ -15,16 +15,21 @@ module:
   comment: 0
   components: 0
   config: 0
+  config_update: 0
   contact: 0
   content_moderation: 0
   contextual: 0
   datetime: 0
   datetime_range: 0
   dblog: 0
+  devel: 0
+  devel_generate: 0
   drupalx_ai: 0
   dynamic_page_cache: 0
   editor: 0
   entity_reference_revisions: 0
+  features: 0
+  features_ui: 0
   field: 0
   field_group: 0
   field_ui: 0

@@ -5,12 +5,23 @@ dependencies:
   config:
     - field.field.node.article.body
     - field.field.node.article.comment
+    - field.field.node.article.field_authors
+    - field.field.node.article.field_content
     - field.field.node.article.field_image
+    - field.field.node.article.field_lead
+    - field.field.node.article.field_media
+    - field.field.node.article.field_meta_tags
+    - field.field.node.article.field_subhead
+    - field.field.node.article.field_summary
     - field.field.node.article.field_tags
+    - field.field.node.article.field_thumbnail
     - image.style.thumbnail
     - node.type.article
   module:
     - comment
+    - paragraphs
+    - paragraphs_ee
+    - paragraphs_features
     - path
     - svg_image
     - text
@@ -43,6 +54,36 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
+  field_content:
+    type: paragraphs
+    weight: 3
+    region: content
+    settings:
+      title: Component
+      title_plural: Components
+      edit_mode: closed
+      closed_mode: summary
+      autocollapse: none
+      closed_mode_threshold: 0
+      add_mode: modal
+      form_display_mode: default
+      default_paragraph_type: _none
+      features:
+        add_above: '0'
+        collapse_edit_all: '0'
+        convert: '0'
+        duplicate: '0'
+    third_party_settings:
+      paragraphs_ee:
+        paragraphs_ee:
+          dialog_off_canvas: false
+          dialog_style: tiles
+      paragraphs_features:
+        add_in_between: false
+        add_in_between_link_count: 3
+        delete_confirmation: false
+        show_drag_and_drop: false
+        show_collapse_all: false
   field_image:
     type: image_image
     weight: 1
@@ -118,4 +159,11 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
-hidden: {  }
+hidden:
+  field_authors: true
+  field_lead: true
+  field_media: true
+  field_meta_tags: true
+  field_subhead: true
+  field_summary: true
+  field_thumbnail: true

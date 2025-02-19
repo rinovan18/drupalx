@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "4247b4b9-6e64-4b69-ad96-991d7c7aebb1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "3528e072-11ce-4ce0-a4fe-561439270d02"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2025-02-18T22:40:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "name": [
+        {
+            "value": "catat-jawaban.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "asad",
+            "title": null,
+            "width": 1920,
+            "height": 1080,
+            "target_type": "file",
+            "target_uuid": "589f9e08-cebf-40c4-8e50-c958546878e3"
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-18T22:40:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-18T22:40:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_image": [],
+    "field_media_image": [
+        {
+            "alt": "asad",
+            "title": "",
+            "width": 1920,
+            "height": 1080,
+            "target_type": "file",
+            "target_uuid": "589f9e08-cebf-40c4-8e50-c958546878e3"
+        }
+    ]
+}

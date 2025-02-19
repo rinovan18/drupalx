@@ -3,6 +3,7 @@ langcode: en
 status: true
 dependencies:
   config:
+    - field.field.paragraph.hero.field_gambar
     - field.field.paragraph.hero.field_heading
     - field.field.paragraph.hero.field_hero_layout
     - field.field.paragraph.hero.field_link
@@ -76,4 +77,5 @@ content:
     third_party_settings: {  }
 hidden:
   created: true
+  field_gambar: true
   status: true
