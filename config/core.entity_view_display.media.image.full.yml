@@ -1,6 +1,6 @@
 uuid: c6e857c2-8e00-46a5-aecc-f655fee907bc
 langcode: en
-status: true
+status: false
 dependencies:
   config:
     - core.entity_view_mode.media.full
