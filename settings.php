@@ -793,7 +793,9 @@ $databases['default']['default'] = array (
 );
 
 $settings['config_sync_directory'] = '../config';
-
+$settings['tome_files_directory'] = '../files';
+$settings['tome_content_directory'] = '../content';
+$settings['tome_static_directory'] = '../docs';
 /**
  * Instead of having a "local" settings.php, it may make sense for you to
  * always assume that web requests are local development and the CLI
