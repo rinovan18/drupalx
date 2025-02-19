@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2025-02-19T06:10:35+00:00",
+            "value": "2025-02-19T07:41:26+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/mkm",
+            "alias": "\/jenis-jenis-isim",
             "langcode": "en"
         }
     ],
@@ -90,11 +90,11 @@
         },
         {
             "target_type": "paragraph",
-            "target_uuid": "1acf9fbb-2138-4585-b248-4d654cb118a8"
+            "target_uuid": "287466fe-08e6-4c91-b552-08ee5200229a"
         },
         {
             "target_type": "paragraph",
-            "target_uuid": "287466fe-08e6-4c91-b552-08ee5200229a"
+            "target_uuid": "a6c14381-0260-497b-a8f4-6c56bc4314a3"
         }
     ],
     "field_hide_page_title": [

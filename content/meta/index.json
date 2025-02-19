@@ -54,13 +54,13 @@
     ],
     "paragraph.8d7be06d-e0b1-4936-ba80-6d85926653bb": [
         "media.4247b4b9-6e64-4b69-ad96-991d7c7aebb1",
-        "media.3a4b241b-5ca0-493e-88cb-7dc81b1ef0eb"
+        "media.df4fa9a5-27aa-4e3f-ac0a-7fff04c61e7f"
     ],
     "node.8f1dc90e-6bc7-4864-bc84-5e00e039c39f": [
         "user.e39f16e0-f90b-40ba-b809-4f9156f7182b",
         "paragraph.8d7be06d-e0b1-4936-ba80-6d85926653bb",
-        "paragraph.1acf9fbb-2138-4585-b248-4d654cb118a8",
-        "paragraph.287466fe-08e6-4c91-b552-08ee5200229a"
+        "paragraph.287466fe-08e6-4c91-b552-08ee5200229a",
+        "paragraph.a6c14381-0260-497b-a8f4-6c56bc4314a3"
     ],
     "path_alias.310706fc-bfc1-44c1-b291-9f0da1d9b027": [
         "node.8f1dc90e-6bc7-4864-bc84-5e00e039c39f"
@@ -79,8 +79,8 @@
     "paragraph.bb516e85-eea4-422e-873a-ec9dc7cca45c": [],
     "paragraph.287466fe-08e6-4c91-b552-08ee5200229a": [
         "paragraph.bb516e85-eea4-422e-873a-ec9dc7cca45c",
-        "media.882e6513-2976-4745-bf96-ca4d43611b6d",
-        "media.3a4b241b-5ca0-493e-88cb-7dc81b1ef0eb"
+        "paragraph.7f3b7e6c-333f-4078-8247-340eaaf8e70c",
+        "media.df4fa9a5-27aa-4e3f-ac0a-7fff04c61e7f"
     ],
     "file.4ed25db8-e9b2-47de-8213-e3718c21befb": [
         "user.e39f16e0-f90b-40ba-b809-4f9156f7182b"
@@ -106,5 +106,21 @@
     ],
     "redirect.0d39d118-59ce-49ec-8b0d-92fca6c11172": [
         "user.e39f16e0-f90b-40ba-b809-4f9156f7182b"
+    ],
+    "file.923ff221-8b22-4991-97eb-7f0cabe18aef": [
+        "user.e39f16e0-f90b-40ba-b809-4f9156f7182b"
+    ],
+    "media.df4fa9a5-27aa-4e3f-ac0a-7fff04c61e7f": [
+        "user.e39f16e0-f90b-40ba-b809-4f9156f7182b",
+        "file.923ff221-8b22-4991-97eb-7f0cabe18aef"
+    ],
+    "paragraph.7f3b7e6c-333f-4078-8247-340eaaf8e70c": [],
+    "paragraph.23e6356b-d544-44d5-9e49-cadabc18e2f1": [],
+    "paragraph.8cde95b4-f5e2-4c95-90c0-3c0dc965febe": [],
+    "paragraph.6ae98234-3e4b-46e9-922d-15a4e2c5a8f2": [],
+    "paragraph.a6c14381-0260-497b-a8f4-6c56bc4314a3": [
+        "paragraph.23e6356b-d544-44d5-9e49-cadabc18e2f1",
+        "paragraph.8cde95b4-f5e2-4c95-90c0-3c0dc965febe",
+        "paragraph.6ae98234-3e4b-46e9-922d-15a4e2c5a8f2"
     ]
 }

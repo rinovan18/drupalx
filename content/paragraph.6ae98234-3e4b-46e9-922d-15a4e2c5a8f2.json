@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "bb516e85-eea4-422e-873a-ec9dc7cca45c"
+            "value": "6ae98234-3e4b-46e9-922d-15a4e2c5a8f2"
         }
     ],
     "langcode": [
@@ -23,7 +23,7 @@
     ],
     "created": [
         {
-            "value": "2025-02-18T15:39:12+00:00",
+            "value": "2025-02-19T07:40:52+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -45,18 +45,18 @@
     "field_custom_icon": [],
     "field_icon": [
         {
-            "value": "network"
+            "value": "zap"
         }
     ],
     "field_summary": [
         {
-            "value": "Harness the power of headless CMS to separate the front and back-end for optimal flexibility.",
+            "value": "Deliver lightning-quick load times and smooth interactions that keep your audience coming back.",
             "format": null
         }
     ],
     "field_title": [
         {
-            "value": "Decoupled Architecture"
+            "value": "Achieve Blazing Fast Performance That Keeps Your Users Engaged and Satisfied"
         }
     ]
 }

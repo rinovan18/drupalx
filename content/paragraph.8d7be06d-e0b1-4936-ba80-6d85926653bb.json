@@ -76,12 +76,12 @@
     "field_media": [
         {
             "target_type": "media",
-            "target_uuid": "3a4b241b-5ca0-493e-88cb-7dc81b1ef0eb"
+            "target_uuid": "df4fa9a5-27aa-4e3f-ac0a-7fff04c61e7f"
         }
     ],
     "field_summary": [
         {
-            "value": "<p>sfdsfds ds ds d sfdsfds ds ds d sfdsfds ds ds d sfdsfds ds ds d sfdsfds ds ds d sfdsfds ds ds d sfdsfds ds ds d&nbsp;<\/p>",
+            "value": "<p>Experience the next-gen platform that seamlessly integrates Drupal's powerful CMS with innovative front-end technologies. Elevate your projects with unmatched flexibility and performance.<\/p>",
             "format": "basic_html"
         }
     ]

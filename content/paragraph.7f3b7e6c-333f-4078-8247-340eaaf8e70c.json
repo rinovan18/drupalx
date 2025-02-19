@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "bb516e85-eea4-422e-873a-ec9dc7cca45c"
+            "value": "7f3b7e6c-333f-4078-8247-340eaaf8e70c"
         }
     ],
     "langcode": [
@@ -23,7 +23,7 @@
     ],
     "created": [
         {
-            "value": "2025-02-18T15:39:12+00:00",
+            "value": "2025-02-19T07:39:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -45,18 +45,18 @@
     "field_custom_icon": [],
     "field_icon": [
         {
-            "value": "network"
+            "value": "bot"
         }
     ],
     "field_summary": [
         {
-            "value": "Harness the power of headless CMS to separate the front and back-end for optimal flexibility.",
+            "value": "Leverage cutting-edge AI assistants and smart code generators to accelerate your development.",
             "format": null
         }
     ],
     "field_title": [
         {
-            "value": "Decoupled Architecture"
+            "value": "AI Development Tools"
         }
     ]
 }

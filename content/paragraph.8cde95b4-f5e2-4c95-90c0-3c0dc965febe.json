@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "bb516e85-eea4-422e-873a-ec9dc7cca45c"
+            "value": "8cde95b4-f5e2-4c95-90c0-3c0dc965febe"
         }
     ],
     "langcode": [
@@ -23,7 +23,7 @@
     ],
     "created": [
         {
-            "value": "2025-02-18T15:39:12+00:00",
+            "value": "2025-02-19T07:40:42+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -45,18 +45,18 @@
     "field_custom_icon": [],
     "field_icon": [
         {
-            "value": "network"
+            "value": "git-branch"
         }
     ],
     "field_summary": [
         {
-            "value": "Harness the power of headless CMS to separate the front and back-end for optimal flexibility.",
+            "value": "Leverage the power of React and Node.js to dramatically improve your website's efficiency and speed.",
             "format": null
         }
     ],
     "field_title": [
         {
-            "value": "Decoupled Architecture"
+            "value": "Experience seamless integration and flexibility with our Decoupled Architecture."
         }
     ]
 }

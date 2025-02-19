@@ -42,28 +42,22 @@
             "value": true
         }
     ],
-    "field_eyebrow": [
-        {
-            "value": "mata"
-        }
-    ],
+    "field_eyebrow": [],
     "field_features": [
         {
             "target_type": "paragraph",
             "target_uuid": "bb516e85-eea4-422e-873a-ec9dc7cca45c"
-        }
-    ],
-    "field_link": [
+        },
         {
-            "uri": "internal:\/",
-            "title": "ok",
-            "options": []
+            "target_type": "paragraph",
+            "target_uuid": "7f3b7e6c-333f-4078-8247-340eaaf8e70c"
         }
     ],
+    "field_link": [],
     "field_media": [
         {
             "target_type": "media",
-            "target_uuid": "3a4b241b-5ca0-493e-88cb-7dc81b1ef0eb"
+            "target_uuid": "df4fa9a5-27aa-4e3f-ac0a-7fff04c61e7f"
         }
     ],
     "field_sidebyside_layout": [
@@ -73,13 +67,13 @@
     ],
     "field_summary": [
         {
-            "value": "<p><em>Warning<\/em>: rename(sites\/default\/files\/php\/twig\/.VLQRumTPhUfpw5ORu7jvz0SCwZI,sites\/default\/files\/php\/twig\/67b4a1621fa01_drupalx_theme:heading_RADLPxKbXAwvcTKjIsI2hUWyH\/PFifIStmgjl3Yj3Yo1-oZlEQxZFXSwK_rxkYZyg2xsU.php): The system cannot find the path specified (code: 3) in <em>Drupal\\Component\\PhpStorage\\MTimeProtectedFastFileStorage-&gt;save()<\/em> (line <em>88<\/em> of <em>C:\\Users\\Administrator\\Downloads\\git\\rinovan18\\drupalx\\web\\core\\lib\\Drupal\\Component\\PhpStorage\\MTimeProtectedFastFileStorage.php<\/em>)<br>&nbsp;<\/p>",
+            "value": "<p><em>Elevate Your Web Development with DrupalX's Cutting-Edge Features<\/em><\/p>",
             "format": "basic_html"
         }
     ],
     "field_title": [
         {
-            "value": "Makrifat Sifat"
+            "value": "Unmatched Advantages of DrupalX"
         }
     ]
 }
